@@ -1,0 +1,18 @@
+body section {
+  margin: 10px;
+  padding: 5px;
+  background-color: #6699ff;
+}
+
+article {
+  background-color: #ffffb3;
+}
+
+.tabs > span {
+  margin: 5px;
+  border: 1px solid;
+}
+
+.tabs > span.active {
+  background-color: #0000ff;
+}
